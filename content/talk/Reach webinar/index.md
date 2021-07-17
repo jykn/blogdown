@@ -21,7 +21,7 @@ image:
 #publication_short: In *CIN*
 publication_types:
 - "2"
-#publishDate: "2021-06"
+publishDate: "2021-06-16"
 #slides: example
 summary: This is an [ISOQOL Educational Webinar](https://www.isoqol.org/interpretation-of-pros-in-clinical-practice-solutions-for-assessing-change-and-diverse-people) to review clinical implications and solutions for addressing response shift and differential item functioning with emphasis on interpretation of patient-reported outcomes for assessing change and diverse people. Other knowledge translation resources including an online learning module are developed [here](https://www.healthyqol.com/methods)
 #tags:
