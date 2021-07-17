@@ -21,11 +21,11 @@ authors:
 #  url: http://example.org
 #projects:
 #- internal-project
-publication: In *RBMC Medical Research Methodology*
+publication: In *BMC Medical Research Methodology*
 
 publication_types:
 - "2"
-publishDate: "2014-10-11"
+publishDate: "2021-04-21"
 #slides: example
 #tags:
 #- Source Themes
