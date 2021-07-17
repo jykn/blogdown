@@ -13,6 +13,7 @@ featured: true
 image:
   focal_point: ""
   preview_only: false
+  
 #links:
 #name: "https://www.bcpcm.ca/articles/results-side-side-comparison-two-generic-proms-vr-12-and#-eq-5d-5l"
 # url: 'https://www.bcpcm.ca/articles/results-side-side-comparison-two-generic-proms-vr-12-and#-eq-5d-5l'
