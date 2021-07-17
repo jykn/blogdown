@@ -4,7 +4,7 @@ abstract: Results of patient-reported outcome measures (PROMs) are increasingly 
 authors: 
 - Richard Sawatzky 
 - Jae-Yung Kwon
-- Ruth Barlacy
+- Ruth Barclay
 - Cynthia Chauhan
 - Lori Frank
 - Wilbert B van den Hout
