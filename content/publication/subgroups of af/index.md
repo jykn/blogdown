@@ -1,12 +1,6 @@
 ---
 abstract: Previous research about the health and quality of life of people with atrial fibrillation has typically identified a single health trajectory. Our study aimed to examine variability in health trajectories and patient characteristics associated with such variability.
 
-We conducted a retrospective analysis of data collected between 2008 and 2016 for a cardiac registry in British Columbia (Canada) linked with administrative health data. The Atrial Fibrillation Effect on Quality of Life Questionnaire was used to measure health status at up to 10 clinic visits. Growth mixture models were used and a three-step multinomial logistic regression was conducted to identify predictors of subgroups with different trajectories.
-
-The patients (N=7439) were primarily men (61.1%) over 60 years of age (72.9%). Three subgroups of health status trajectories were identified: “poor but improving”, “good and stable”, and “excellent and stable” health. Compared with the other two groups, patients in the “poor but improving group” were more likely to (1) be less than 60 years of age; (2) be women; (3) have greater risk of stroke; (4) have had ablation therapy within 6 months to 1 year or more than 2 years after their initial consultation; and (5) have had anticoagulation therapy within 6 months.
-
-Using growth mixture models, we found that not all health trajectories are the same. These models can help to understand variability in trajectories with different patient characteristics that could inform tailored interventions and patient education strategies.
-
 authors: 
 - Jae-Yung Kwon
 - Richard Sawatzky 
