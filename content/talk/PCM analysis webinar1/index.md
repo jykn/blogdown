@@ -14,15 +14,15 @@ image:
   focal_point: ""
   preview_only: false
 #links:
-#- name: Custom Link
-  url: https://www.bcpcm.ca/articles/results-side-side-comparison-two-generic-proms-vr-12-and-eq-5d-5l
+#name: "https://www.bcpcm.ca/articles/results-side-side-comparison-two-generic-proms-vr-12-and#-eq-5d-5l"
+# url: 'https://www.bcpcm.ca/articles/results-side-side-comparison-two-generic-proms-vr-12-and#-eq-5d-5l'
 #projects:
 #- internal-project
-publication: In *International Society of Quality of Life Research Conference*
-publication_short: In *ISOQOL*
+#publication: In *International Society of Quality of Life Research Conference*
+#publication_short: In *ISOQOL*
 publication_types:
 - "1"
-publishDate: "2020-10-11"
+publishDate: "2021-01-27"
 #slides: example
 summary: This is an invited webinar from the BC Office of Patient-Centred Measurement to present results of a comparative analysis of the VR-12 and the EQ-5D using BC OPCM survey data, linked with administrative health data.
 #tags:
@@ -35,5 +35,5 @@ title: "Results of a side-by-side comparison of two generic PROMs: VR-12 and EQ-
 #url_project: "https://www.slideshare.net/secret/a3VIyDDSiF8ETx"
 #url_slides: "https://ln.sync.com/dl/d4883f2b0/ni7g#z34t-3483vth3-9kfqh6ca-66mpnjg4"
 #url_source: '#'
-#url_video: 'https://www.bcpcm.ca/articles/results-side-side-comparison-two-generic-proms-vr-12-and-eq-5d-5l'
+url_video: 'https://www.bcpcm.ca/articles/results-side-side-comparison-two-generic-proms-vr-12-and-eq-5d-5l'
 ---
