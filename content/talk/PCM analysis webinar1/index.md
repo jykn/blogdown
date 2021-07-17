@@ -1,5 +1,5 @@
 ---
-abstract: The purpose of the webinar is to provide guidance on the use of two commonly used generic patient-reported outcome measures (PROMs) in patient-centred measurement health surveys (The VR-12 and the EQ-5D-5L). Dr. Kwon will present results of his comparative analysis of both PROMs using BC OPCM survey data, linked with administrative health data (join in [zoom](https://phsa.zoom.us/j/7226814555) passcode 667719).
+abstract: The purpose of the webinar is to provide guidance on the use of two commonly used generic patient-reported outcome measures (PROMs) in patient-centred measurement health surveys (The VR-12 and the EQ-5D-5L). Dr. Kwon will present results of his comparative analysis of both PROMs using BC OPCM survey data, linked with administrative health data.
 
 authors:
 - admin
@@ -15,7 +15,7 @@ image:
   preview_only: false
 #links:
 #- name: Custom Link
-#  url: http://example.org
+  url: https://www.bcpcm.ca/articles/results-side-side-comparison-two-generic-proms-vr-12-and-eq-5d-5l
 #projects:
 #- internal-project
 publication: In *International Society of Quality of Life Research Conference*
@@ -24,7 +24,7 @@ publication_types:
 - "1"
 publishDate: "2020-10-11"
 #slides: example
-summary: This is an invited webinar from the [BC Office of Patient-Centred Measurement](https://www.bcpcm.ca/bc-patient-centred-measurement) to present results of a comparative analysis of the VR-12 and the EQ-5D using BC OPCM survey data, linked with administrative health data (join in [zoom](https://phsa.zoom.us/j/7226814555) passcode 667719).
+summary: This is an invited webinar from the BC Office of Patient-Centred Measurement to present results of a comparative analysis of the VR-12 and the EQ-5D using BC OPCM survey data, linked with administrative health data.
 #tags:
 #- Source Themes
 title: "Results of a side-by-side comparison of two generic PROMs: VR-12 and EQ-5D-5L" 
@@ -35,5 +35,5 @@ title: "Results of a side-by-side comparison of two generic PROMs: VR-12 and EQ-
 #url_project: "https://www.slideshare.net/secret/a3VIyDDSiF8ETx"
 #url_slides: "https://ln.sync.com/dl/d4883f2b0/ni7g#z34t-3483vth3-9kfqh6ca-66mpnjg4"
 #url_source: '#'
-#url_video: 'https://www.loom.com/share/62dcabd3715#24fc7a7c5147cc991ee2d'
+#url_video: 'https://www.bcpcm.ca/articles/results-side-side-comparison-two-generic-proms-vr-12-and-eq-5d-5l'
 ---
