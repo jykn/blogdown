@@ -8,5 +8,5 @@ summary: I am leading a project to develop personas as methodological tools to i
 
 tags:
 - Current
-title: "Personas to Support Health Care Provider Use of Electronic Patient-Reported Outcomes in the Care of Older Adults with Cancer: A Knowledge Translation Project"
+title: "Personas to Support Health Care Provider Use of Electronic Patient-Reported Outcomes in the Care of Older Adults with Cancer"
 ---
