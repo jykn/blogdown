@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 summary: I am involved in a CIHR-funded study led by Kara Schick-Makaroff (University of Alberta) to understand how to best support clinicians in routinely utilizing electronic patient-reported outcomes in a kidney context. 
 tags:
-- Current
+- Past
 title: "Electronic patient-reported outcomes in clinical kidney practice"
 ---
 
