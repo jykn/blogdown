@@ -13,7 +13,7 @@ links:
 
 summary: 
 tags:
-- Past
+- Current
 title: Family Caregivers of BC Survey Advisory Committee
 url_code: ""
 url_pdf: ""

@@ -6,6 +6,6 @@ image:
   focal_point: Smart
 summary: I am leading a project to guide knowledge users about the reporting and selection of a generic PRO measure based on comparative results of the VR-12 and the EQ-5D (funded by the [BC SUPPORT Unit](https://bcsupportunit.ca/)). 
 tags:
-- Past
+- Current
 title: "Advancing methods for patient-centred measurement in emergency department"
 ---
