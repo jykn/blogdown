@@ -1,7 +1,6 @@
 ---
 abstract: Learn about implications and solutions for response shift (RS) and differential item functioning (DIF) in clinical practice.
 
-
 authors: 
 - Jae-Yung Kwon
   
