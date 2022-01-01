@@ -29,7 +29,7 @@ summary: This is an [ISOQOL Educational Webinar](https://www.isoqol.org/interpre
 title: Interpretation of PROs in clinical practice Solutions for assessing change and diverse people
 #url_code: 'https://pubmed.ncbi.nlm.nih.gov/30688670/'
 #url_dataset: '#'
-#url_pdf: slides/ISOQOL_webinar_pro.pdf/
+url_pdf: slides/ISOQOL_webinar_pro.pdf/
 #url_poster: '#'
 #url_project: "https://www.slideshare.net/secret/a3VIyDDSiF8ETx"
 #url_slides: "slides/ISOQOL_webinar_pro.pdf/"

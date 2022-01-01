@@ -4,7 +4,7 @@ abstract: This is an informal seminar to demystify the process of transforming a
 authors: 
 - Jae-Yung Kwon
   
-date: "2022-01-12T16:00:00Z"
+#date: "2022-01-12T16:00:00Z"
 
 #doi: ""
 featured: false
