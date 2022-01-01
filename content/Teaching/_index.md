@@ -20,6 +20,6 @@ UVic School of Nursing
 
 **Other teaching related workshops taken**
 
-[UVic Instructional Skills Workshop](https://onlineacademiccommunity.uvic.ca/TeachAnywhere/2021/04/28/instructional-skills-workshop/)(2021)
+[UVic Instructional Skills Workshop](https://onlineacademiccommunity.uvic.ca/TeachAnywhere/2021/04/28/instructional-skills-workshop/) (2021)
 
 

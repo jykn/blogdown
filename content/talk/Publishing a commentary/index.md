@@ -18,8 +18,8 @@ image:
 #publication: In *International Society of Quality of Life Research Conference*
 #publication_short: In *ISOQOL*
 publication_types:
-- "1"
-#publishDate: "2022-10-11"
+- "2"
+#publishDate: "2022-01-12"
 #slides: example
 summary: This is an informal webinar from the [University of Victoria PhD seminar series](https://uvic.zoom.us/j/84471360852?pwd=UFRrNTh1dnluOTcxOVViWnRXdFdOQT09) to demystify the process of transforming a course assignment into a one that is ready for publication in a peer-reviewed journal. This presentation will also provide tips and tricks to overcome writing fears and address common early career obstacles when it comes to writing. (join in [zoom](https://uvic.zoom.us/j/84471360852?pwd=UFRrNTh1dnluOTcxOVViWnRXdFdOQT09) passcode 131726).
 #tags:
