@@ -23,10 +23,10 @@ publication_types:
 - "2"
 #publishDate: "2021-06-16"
 #slides: example
-summary: This is an informal seminar to demystify the process of transforming a course assignment commentary into a one that is ready for publication. This presentation will also provide tips and tricks to overcome writing fears and address common early career obstacles when it comes to writing. [Zoom  link](https://uvic.zoom.us/j/84471360852?pwd=UFRrNTh1dnluOTcxOVViWnRXdFdOQT09) passcode: 131726.
+summary: This is an informal seminar to demystify the process of transforming a course assignment commentary into a one that is ready for publication. This presentation will also provide tips and tricks to overcome writing fears and address common early career obstacles when it comes to writing. [Zoom  link](https://uvic.zoom.us/j/84471360852?pwd=UFRrNTh1dnluOTcxOVViWnRXdFdOQT09) passcode 131726
 #tags:
 #- Source Themes
-title: Tricks of the trade: From writing a course assignment to publishing a commentary
+title: "Tricks of the trade: From writing a course assignment to publishing a commentary"
 #url_code: 'https://pubmed.ncbi.nlm.nih.gov/30688670/'
 #url_dataset: '#'
 #url_pdf: slides/ISOQOL_webinar_pro.pdf/
