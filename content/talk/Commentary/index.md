@@ -1,5 +1,5 @@
 ---
-abstract: This is an informal seminar to demystify the process of transforming a course assignment commentary into a one that is ready for publication.
+abstract: 
 
 authors: 
 - Jae-Yung Kwon
@@ -10,7 +10,7 @@ authors:
 featured: false
 image:
 #  caption: 'Image credit: 
-  focal_point: ""
+  focal_point: "center"
   preview_only: false
 #links:
 #- name: Custom Link
