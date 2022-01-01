@@ -1,5 +1,5 @@
 ---
-abstract: 
+abstract: This is an informal seminar to demystify the process of transforming a course assignment commentary into a one that is ready for publication.
 
 authors: 
 - Jae-Yung Kwon
@@ -7,7 +7,7 @@ authors:
 date: "2022-01-12T16:00:00Z"
 
 #doi: ""
-featured: 
+featured: false
 image:
 #  caption: 'Image credit: 
   focal_point: "center"
@@ -21,7 +21,7 @@ image:
 #publication_short: In *CIN*
 publication_types:
 - "2"
-#publishDate: "2021-06-16"
+publishDate: "2022-01-12"
 #slides: example
 summary: This is an informal seminar to demystify the process of transforming a course assignment commentary into a one that is ready for publication. This presentation will also provide tips and tricks to overcome writing fears and address common early career obstacles when it comes to writing. [Zoom  link](https://uvic.zoom.us/j/84471360852?pwd=UFRrNTh1dnluOTcxOVViWnRXdFdOQT09) passcode 131726
 #tags:
