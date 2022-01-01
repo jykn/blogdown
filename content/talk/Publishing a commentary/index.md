@@ -6,9 +6,9 @@ authors:
 
 date: "2022-01-12T16:00:00Z"
 doi: ""
-featured: true
+featured: false
 image:
-  focal_point: ""
+  focal_point: "center"
   preview_only: false
 #links:
 #- name: Custom Link
@@ -19,7 +19,7 @@ image:
 #publication_short: In *ISOQOL*
 publication_types:
 - "2"
-#publishDate: "2022-01-12"
+publishDate: "2022-01-12"
 #slides: example
 summary: This is an informal webinar from the [University of Victoria PhD seminar series](https://uvic.zoom.us/j/84471360852?pwd=UFRrNTh1dnluOTcxOVViWnRXdFdOQT09) to demystify the process of transforming a course assignment into a one that is ready for publication in a peer-reviewed journal. This presentation will also provide tips and tricks to overcome writing fears and address common early career obstacles when it comes to writing. (join in [zoom](https://uvic.zoom.us/j/84471360852?pwd=UFRrNTh1dnluOTcxOVViWnRXdFdOQT09) passcode 131726).
 #tags:
