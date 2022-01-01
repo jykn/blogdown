@@ -23,7 +23,7 @@ publication_types:
 - "2"
 #publishDate: "2019-04"
 #slides: example
-summary: This is an invited [Duke data science webinar](https://nursing.duke.edu/centers-and-institutes/cnr/science-seminar-d2s2-series) to present on how machine learning can help provide more visibility to nursing work and better individualize patient care.
+summary: This is an invited [Duke data science webinar](https://nursing.duke.edu/centers-and-institutes/cnr/science-seminar-d2s2-series) to present on machine learning tp provide more visibility to nursing work and better individualize patient care.
 #tags:
 #- Source Themes
 title: Nurses "Seeing Forest for the Trees" in the age of machine learning
