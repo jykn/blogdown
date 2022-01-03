@@ -21,7 +21,7 @@ image:
 #publication_short: In *CIN*
 publication_types:
 - "2"
-publishDate: "2022-01-12"
+#publishDate: "2022-01-12"
 #slides: example
 summary: This is an informal seminar to demystify the process of transforming a course assignment commentary into a one that is ready for publication. This presentation will also provide tips and tricks to overcome writing fears and address common early career obstacles when it comes to writing. [Join Zoom link on Jan 12 4pm PST](https://uvic.zoom.us/j/84471360852?pwd=UFRrNTh1dnluOTcxOVViWnRXdFdOQT09) passcode 131726
 #tags:
