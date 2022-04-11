@@ -8,6 +8,7 @@ My teaching philosophy is based on the scholarship of appreciative inquiry, whic
 **Graduate Teaching**
 
 UVic School of Nursing
+- NURS 590 (Spring 2022): Quantitative data analysis [15 students]
 - NURS 525 (Spring 2022): Disciplinary Research for Advanced Practice Nursing [15 students]
 - NURS 524 (Fall 2021): Professional Inquiry for Advanced Practice Nursing [16 students]
 - NURS 525 (Spring 2021): Disciplinary Research for Advanced Practice Nursing [21 students]
