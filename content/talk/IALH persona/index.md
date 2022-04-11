@@ -23,7 +23,7 @@ publication_types:
 - "2"
 publishDate: "2022-01-03"
 #slides: example
-summary: This presentation will describe how personas can be developed as a knowledge translation strategy to support health care providers to integrate patient-reported outcome measures into cancer care. [Join Zoom link on Apr 12 11:45 to 12:45pm PST](https://us06web.zoom.us/j/82745266936?pwd=NnZiTTdyT1o0ek1FanJlRU92eDRnQT09) passcode 554461
+summary: This presentation will describe how personas can be developed as a knowledge translation strategy to support health care providers to integrate patient-reported outcome measures into cancer care. [Join Zoom link on Apr 12 11:45 to 12:45pm PST](https://us06web.zoom.us/j/82745266936?pwd=NnZiTTdyT1o0ek1FanJlRU92eDRnQT09#success) passcode 20220412
 #tags:
 #- Source Themes
 title: "Seeing the person behind the numbers: Personas to develop empathy and support the use of patient-reported outcome measures"
