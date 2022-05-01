@@ -11,7 +11,6 @@ UVic School of Nursing
 - NURS 590: Quantitative data analysis
 - NURS 525: Disciplinary Research for Advanced Practice Nursing
 - NURS 524: Professional Inquiry for Advanced Practice Nursing
-- NURS 525: Disciplinary Research for Advanced Practice Nursing
 
 **Undergraduate Teaching**
 
