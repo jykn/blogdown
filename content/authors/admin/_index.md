@@ -22,6 +22,7 @@ email: ""
 highlight_name: false
 interests:
 - Patient-reported outcomes
+- Personas
 - Hermeneutics
 - Knowledge translation
 organizations:
