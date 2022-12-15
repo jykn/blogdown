@@ -3,6 +3,7 @@
 .RData
 .Ruserdata
 .DS_Store
-Thumbs.db 
+Thumbs.db
 /public/
 /resources/
+forestplot_fig3.tiff
