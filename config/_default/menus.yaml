@@ -19,9 +19,9 @@ main:
   - name: Teaching
     url: '/Teaching/'
     weight: 50
-  #- name: Supervision
-  #  url: '/Supervision/'
-  #  weight: 60
+  - name: Supervision
+    url: '/Supervision/'
+    weight: 60
   - name: CV
     url: 'pdfs/CV.pdf'
     weight: 70
