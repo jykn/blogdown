@@ -1,12 +1,19 @@
 ---
-abstract: Although patient-reported data collected for clinical registries have the potential to provide valuable information about the impact of treatment, there is little guidance about how to meaningfully analyse these data. The purpose of this study was to explicate the process of conducting such analyses as a guide by answering the following questions (1) What information can be extracted from linked clinical and administrative data sources?; (2) How should we best accommodate the unavoidable missing data within these datasets?; and (3) What is an appropriate analysis strategy for longitudinal patient-reported data? The primary methods included observations and reflections gained from the analysis of patient-reported data (Atrial Fibrillation Effect on Quality of Life Questionnaire) collected between 2008 and 2016 from a provincial cardiac registry in British Columbia (Canada) and linked with administrative health data. This presentation focuses on the key challenges experienced while working with these data (rather than on the findings of the statistical analyses). A large part of the study was focused on how to represent time, and then establish a defensible process to represent the individual variation in the patients’ trajectories. To extract information from linked data sources, substantial data preparation and cleaning were needed. Relevant information including patients’ comorbidities and interventions received were extracted with validated algorithms and various graphical techniques were employed to reveal relevant information (e.g., stacked bar plots and times series plots). To accommodate missing data, multilevel multiple imputation was used with all available auxiliary variables (including an indicator of death). Full information maximum likelihood was used afterwards to account for the follow-up times that were unequally spaced. To model patient trajectories, several methods including multilevel and latent growth models were compared. However, an emerging statistical approach known as growth mixture modelling allowed for the identification of multiple subgroups of trajectories and nesting of time to account for individually-varying times of observation. Analysis of clinical registries requires complex computer programming and knowledge of various analytical software packages. Meaningful analysis methods need to account for both the different subgroups of patient trajectories and variability in the frequency and timing of measurement occurrences. 
+abstract:  While patient-reported outcome measures (PROMs) can help healthcare providers (HCPs) better understand patients’ concerns, their uptake in practice has been slow and ineffective, in part, because numeric PROM scores can be difficult to interpret. Personas, hypothetical representations of patients, can be used as an innovative strategy to support HCPs use of PROMs in their practice. These personas embody patients’ life stories making them a valuable tool for demonstrating the benefits of using PROM scores to inform shared decision-making. The aim of this study was to develop personas as a knowledge translation strategy to support HCPs’ use of PROMs in cancer care.  
+
 authors:
 - admin
+#- Melissa Moynihan
+#- Francis Lau
+#- Angela Wolff
+#- Maria Torrejon
+#- Amanda Yee
+#- Geraldine Irlbacher
+#- Lillian Hung
+#- Leah Lambert
 #- Richard Sawatzky
-#- Jennifer Baumbusch
-#- Sandra Lauck
-#- Pamela A. Ratner
-date: "2020-10-11T12:00:00Z"
+
+date: "2022-10-20T12:00:00Z"
 
 #doi: ""
 featured: true
@@ -23,18 +30,18 @@ publication: In *International Society of Quality of Life Research Conference*
 publication_short: In *ISOQOL*
 publication_types:
 - "1"
-publishDate: "2020-10-11"
+publishDate: "2022-10-20"
 #slides: example
-summary: This short online video presentation at [ISOQOL 2020](https://www.isoqol.org/events/27th-annual-conference/) focuses on some key methodological challenges that were overcome while working with repeated measures patient-reported outcomes data collected from outpatients with atrial fibrillation.
+summary: This short presentation at [ISOQOL 2020](https://www.isoqol.org/participate-in-isoqol-2022/) focuses on using personas that illustrated the lived experience of older adults so that HCPs gain awareness about how PROMs can provide contextual information about patients' unique life situation.
 #tags:
 #- Source Themes
-title: Practical guidance for the meaningful analysis of patient-reported data stored in clinical registries
+title: Seeing the person behind the numbers: Personas to develop empathy and support the use of patient-reported outcome measures
 #url_code: 'https://pubmed.ncbi.nlm.nih.gov/30688670/'
 #url_dataset: '#'
 #url_pdf: https://pubmed.ncbi.nlm.nih.gov/30688670/
 #url_poster: 'https://isoqol27-isoqol.ipostersessions.com/default.aspx?s=92-DC-9D-#CE-6D-FA-6A-42-DB-DA-BC-29-5C-06-D3-7D'
 #url_project: "https://www.slideshare.net/secret/a3VIyDDSiF8ETx"
-url_slides: "https://ln.sync.com/dl/d4883f2b0/ni7gz34t-3483vth3-9kfqh6ca-66mpnjg4"
+url_slides: "https://ln5.sync.com/dl/9a53d1670/5phsxpx7-efftfg35-p5rvqehi-gw79cpcu"
 #url_source: '#'
-url_video: 'https://www.loom.com/share/62dcabd371524fc7a7c5147cc991ee2d'
+#url_video: #'https://www.loom.com/share/62dcabd371524f#c7a7c5147cc991ee2d'
 ---
