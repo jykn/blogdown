@@ -7,7 +7,7 @@ authors:
 #- Leah Lambert
 #- Aslam Anis
 #- Richard Sawatzky
-date: "2022-10-11T12:00:00Z"
+date: "2022-10-19T12:00:00Z"
 
 #doi: ""
 featured: true
@@ -24,9 +24,9 @@ publication: In *International Society of Quality of Life Research Conference*
 publication_short: In *ISOQOL*
 publication_types:
 - "1"
-publishDate: "2022-10-11"
+publishDate: "2022-10-19"
 #slides: example
-summary: This has been awarded the new investigator award at [ISOQOL 2022](https://www.isoqol.org/participate-in-isoqol-2022/).
+summary: This presentation has been awarded the new investigator award at [ISOQOL 2022](https://www.isoqol.org/participate-in-isoqol-2022/).
 #tags:
 #- Source Themes
 title: "Patient-reported anxiety, depression and well-being trajectories in oncology patients during radiation therapy: An expository analysis using the Ontario Cancer Registry"

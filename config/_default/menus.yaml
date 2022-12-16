@@ -24,4 +24,4 @@ main:
 #    weight: 60
   - name: CV
     url: 'pdfs/CV.pdf'
-    weight: 70
+    weight: 60

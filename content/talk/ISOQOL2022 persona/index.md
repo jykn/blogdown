@@ -32,7 +32,7 @@ publication_types:
 - "1"
 publishDate: "2022-10-20"
 #slides: example
-summary: This short presentation at [ISOQOL 2020](https://www.isoqol.org/participate-in-isoqol-2022/) focuses on using personas that illustrated the lived experience of older adults so that HCPs gain awareness about how PROMs can provide contextual information about patients' unique life situation.
+summary: This short presentation at [ISOQOL 2022](https://www.isoqol.org/participate-in-isoqol-2022/) focuses on using personas that illustrated the lived experience of older adults so that HCPs gain awareness about how PROMs can provide contextual information about patients' unique life situation.
 #tags:
 #- Source Themes
 title: "Seeing the person behind the numbers: Personas to develop empathy and support the use of patient-reported outcome measures"
