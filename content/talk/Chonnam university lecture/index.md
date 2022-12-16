@@ -32,7 +32,7 @@ publication_types:
 - "1"
 publishDate: "2022-10-20"
 #slides: example
-summary: This was a colloquium invited lecture at [Chonnam National University](https://www.jnu.ac.kr/) focusing on the use of patient-reported data and personas.
+summary: This was a colloquium invited lecture at [Chonnam National University](https://www.jnu.ac.kr/) focusing on the use of patient-reported data and personas (Nov 29th, 2022).
 #tags:
 #- Source Themes
 title: "Patient-reported data without the tears wiped off"
