@@ -1,5 +1,5 @@
 ---
-abstract: While advances in radiation therapy have increased survival, there is limited knowledge regarding temporal changes in mental health symptoms and well-being of diverse patients and factors associated with these changes during early post diagnosis period. The aims of this study were to: (1) examine heterogeneity in trajectories of patient-reported anxiety, depression and well-being of people who have cancer and are undergoing radiation therapy, and (2) identify, at the time of initial cancer diagnosis visit, which socio-demographic, physical symptoms and clinical variables are associated with such trajectories. 
+abstract: While advances in radiation therapy have increased survival, there is limited knowledge regarding temporal changes in mental health symptoms and well-being of diverse patients and factors associated with these changes during early post diagnosis period. The aims of this study were to (1) examine heterogeneity in trajectories of patient-reported anxiety, depression and well-being of people who have cancer and are undergoing radiation therapy, and (2) identify, at the time of initial cancer diagnosis visit, which socio-demographic, physical symptoms and clinical variables are associated with such trajectories. 
 authors:
 - admin
 #- Jacek Kopec
@@ -29,7 +29,7 @@ publishDate: "2022-10-11"
 summary: This has been awarded the new investigator award at [ISOQOL 2022](https://www.isoqol.org/participate-in-isoqol-2022/).
 #tags:
 #- Source Themes
-title: Patient-reported anxiety, depression and well-being trajectories in oncology patients during radiation therapy: An expository analysis using the Ontario Cancer Registry
+title: "Patient-reported anxiety, depression and well-being trajectories in oncology patients during radiation therapy: An expository analysis using the Ontario Cancer Registry"
 #url_code: 'https://pubmed.ncbi.nlm.nih.gov/30688670/'
 #url_dataset: '#'
 #url_pdf: https://pubmed.ncbi.nlm.nih.gov/30688670/
