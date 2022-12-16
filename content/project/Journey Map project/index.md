@@ -1,16 +1,16 @@
 ---
-date: "2021-07-15T00:00:00Z"
+date: "2022-12-01T00:00:00Z"
 external_link: 
 image:
 #  caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
-summary: I am leading a project to develop personas as methodological tools to inform the development of knowledge translation resources for health care providers on the use of electronic patient-reported outcomes in the care of older adults with cancer. 
+summary: I am leading a project to co-develop journey maps (visualization of patients' stories) to connect patient-reported frailty data with patients' healthcare experiences. The journey maps will be used as educational tools to assist clinicians in using patient-reported frailty assessments for improving person-centred care. 
 
 tags:
 - Current
-title: "Personas to Support Health Care Provider Use of Electronic Patient-Reported Outcomes in the Care of Older Adults with Cancer"
+title: "Mapping patient experiences to improve person-centred care for older adults with cancer"
 ---
 
-This project brings together an interdisciplinary team of patient partners, researchers and key stakeholders (including clinicians and health system leaders) focused on developing evidence-informed resources to support health care providers' (HCPs) use of  patient-reported outcome measures (PROMs) in oncology practice. The aim of this project is to examine personas as methodological tools to inform the development of knowledge translation resources (whiteboard video, interactive learning module) for HCPs on the use of PROMs in the care of older adults with cancer. This project is funded by the University of Victoria and CIHR Strategy for Patient-Oriented Research Grant for effective knowledge translation to better manage the cancer trajectory of patients. 
+Journey mapping – the visualization of patients’ stories – is a relatively new approach in health research that can connect patients’ responses to frailty questionnaire data with their healthcare experiences. In this way, journey maps can assist clinicians in maximizing the benefits of using patient-reported frailty assessments to improve person-centred care. Learning about patient behaviours, feelings, and motivations and knowing what they experience physically, socially, and psychologically during their cancer journey helps clinicians understand potential barriers and opportunities for improving health care services across the continuum of care. This project aims to improve person-centred cancer care for older frail patients by increasing awareness of the usefulnesss of patient-reported data for addressing their unique health-related needs. This project is funded by the AGE-WELL and the Canadian Frailty Network. 
 
-See our co-developed [Learning module](https://360.articulate.com/review/content/840682a3-f925-4e49-9aec-b085d18f6c8f/review) with older adults with cancer to educate HCPs about improving patient care, which has been uploaded to the LearningHub (an online course registry where all health authority staff across British Columbia can access). 
+See our [media news story](https://agewell-nce.ca/archives/15935). 
