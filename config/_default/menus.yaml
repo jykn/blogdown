@@ -13,7 +13,7 @@ main:
   #- name: Publications
   #  url: '/Publication/'
   - name: Publications
-    url: '/https://www.researchgate.net/profile/Jae-Yung-Kwon-2/research/'
+    url: 'https://www.researchgate.net/profile/Jae-Yung-Kwon-2/research'
     weight: 30
   - name: Talks
     url: '/talk/'
