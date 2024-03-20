@@ -23,7 +23,7 @@ publication_types:
 - "2"
 publishDate: "2024-03-20"
 #slides: example
-summary: This is a Canadian Association of Schools of Nursing Research and Scholarship Committee's [Lunch and Learn Presentation](https://www.casn.ca/2022/01/the-2023-2024-lunch-and-learn-series-presented-by-casns-research-scholarship-committee/) to demonstrate how nurses can interpret and use patient-reported data for individual patients. See ppt [here](https://ln5.sync.com/dl/85754f930/mtds6nys-dkfqzh8h-hq2hqjwy-ei2eijfj)  
+summary: This was an invited presentation to the Canadian Association of Schools of Nursing Research and Scholarship Committee's [Lunch and Learn](https://www.casn.ca/2022/01/the-2023-2024-lunch-and-learn-series-presented-by-casns-research-scholarship-committee/) to demonstrate how nurses can interpret and use patient-reported data for individual patients (Mar 20, 2024).
 
 #tags:
 #- Source Themes
