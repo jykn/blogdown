@@ -26,7 +26,7 @@ publication_types:
 summary: This was an invited series of presentations hosted by the BC Ministry of Health Knowledge Exchange - Patient Perspectives in Health Care Data and Analytics to discuss how patient-reported outcome measures are being used in British Columbia to generate data to inform value and improvements in care. 
 #tags:
 #- Source Themes
-title: Side-by-side comparison of two generic PROMs: VR-12 and EQ-5D-5L
+title: "Side-by-side comparison of two generic PROMs: VR-12 and EQ-5D-5L"
 #url_code: 'https://pubmed.ncbi.nlm.nih.gov/30688670/'
 #url_dataset: '#'
 #url_pdf: https://pubmed.ncbi.nlm.nih.gov/30688670/
