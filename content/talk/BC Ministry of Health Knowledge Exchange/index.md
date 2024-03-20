@@ -16,7 +16,7 @@ image:
 #publication_short: In *CIN*
 publication_types:
 - "2"
-publishDate: "2023-04"
+publishDate: "2023-04-20"
 #slides: example
 summary: This was an invited panel presentation hosted by BC Ministry of Health Knowledge Exchange - Patient Perspectives in Health Care Data and Analytics to discuss how patient-reported outcome measures are being used in British Columbia to generate data to inform value and improvements in care (Apr 20, 2023).
 #tags:
