@@ -26,4 +26,4 @@ main:
     weight: 60
   - name: CV
     url: 'pdfs/CV.pdf'
-    weight: 60
+    weight: 70
