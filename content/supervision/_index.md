@@ -29,12 +29,3 @@ Grant/award support
 *[BC SUPPORT Unit](https://bcsupportunit.ca)
 *[Mitacs](https://www.mitacs.ca/en)
 
-
-#Statistical support
-#*[DataCamp](https://www.datacamp.com) – This site offers a step-by-step method of teaching R and statistical analysis using an #interactive browser and has a variety of video tutorials and courses that range from data manipulation and data visualisation to case #studies 
-
-#*[Coursera](https://www.coursera.org) – This free online learning platform provides a wide range of courses in computer programming, #including SAS (Getting Started with SAS Programming), R (R Programming), and data manipulation strategies (Getting and Cleaning Data) 
-
-#*[Stackoverflow](https://stackoverflow.com/questions) – This site is an online community forum that features questions and answers on a #wide range of topics in computer programming 
-
-
