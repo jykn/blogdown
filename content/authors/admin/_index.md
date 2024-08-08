@@ -66,7 +66,7 @@ user_groups:
 - Principal Investigators
 ---
 
-Dr. Jae-Yung Kwon is an Assistant Professor (tenure-track) in the School of Nursing at the University of Victoria (UVic). He co-leads the Health Services and Systems cluster at the Institute on Aging and Lifelong Health and the New Investigators Group at the International Society of Quality of Life.
+Dr. Jae-Yung Kwon is an Assistant Professor (tenure-track) in the School of Nursing at the University of Victoria (UVic). He co-leads the [Health Services and Systems cluster at the Institute on Aging and Lifelong Health](https://www.uvic.ca/research/centres/aging/research-resources/health-services-systems/index.php) and the [New Investigators Group at the International Society of Quality of Life](https://www.isoqol.org/sigs/).
 
 He obtained his [PhD in Nursing](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0390462), with a subspecialization in [Measurement, Evaluation and Research Methodology](https://ecps.educ.ubc.ca/measurement-evaluation-and-research-methodology), from the University of British Columbia (UBC), supported by a UBC Fellowship and Cardiac Services BC. He completed his joint postdoctoral training with the BC Ministry of Health Office of Patient-Centred Measurement and Trinity Western University, supported by the BC SUPPORT Unit.
 
