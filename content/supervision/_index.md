@@ -8,19 +8,13 @@ Finding “fit” between the supervisor and the student is one of the most impo
 
 **Available to Supervise**
 
-I am currently looking for graduate students interested in developing knowledge, interventions, and policy recommendations based on analyses of PROs. These topics include: 
--	Differential item functioning to address equity in measurement 
--	Moderated/mediation analyses to inform interventions focused on improving quality of life
--	Machine learning to predict patients at high risk for poor health outcomes
-- Knowledge translation to facilitate use of PROs
+I am currently looking for graduate students interested in person-centred methods and approaches. These topics include: 
+-	tailoring health services
+-	psychosocial interventions focused on improving quality of life
+- Knowledge translation strategies (e.g., personas, journey maps, photovoice)
 
-Interested candidates should be open to learning R and Mplus (see my publications for fit). If interested, please email me the following:
-1. CV
-2. 1 page cover letter of research fit and career goal
-3. Contact information for 2 references  
-
-Please note that only shortlisted candidates will be contacted. 
-
+Please check these websites for [MSN](https://www.uvic.ca/hsd/nursing/graduate/apply/index.php) and [PhD] (https://www.uvic.ca/hsd/nursing/graduate/apply-phd/index.php) requirements for nursing, Uvic.
+Please check my research interest and previous publications. 
 
 **Resources**
 
