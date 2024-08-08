@@ -21,11 +21,11 @@ Please check my research interest and previous publications.
 **Resources**
 
 Grant/award support 
-
-*[Canadian Nurses Foundation](https://cnf-fiic.ca)
-*[Registered Nurses Foundation of BC](https://rnfbc.ca)
-*[Canadian Institutes of Health Research](https://cihr-irsc.gc.ca/e/193.html)
+*[School of Nursing Awards](https://www.uvic.ca/registrar/safa/entrance-scholarships/dept/nursing.php)
+*[Institute on Aging and Lifelong Health Scholarships](https://www.uvic.ca/research/centres/aging/awards/scholarships/index.php)
+*[Canadian Nurses Foundation Scholarships](https://cnf-fiic.ca/scholarship-and-awards/)
+*[Registered Nurses Foundation of BC Bursaries](https://www.rnfbc.ca/bursaries/)
+*[Canadian Institutes of Health Research Training Awards](https://cihr-irsc.gc.ca/e/50513.htmll)
 *[Michael Smith Foundation for Health Research](https://www.msfhr.org/funding)
-*[BC SUPPORT Unit](https://bcsupportunit.ca)
-*[Mitacs](https://www.mitacs.ca/en)
+*[Mitacs](https://www.mitacs.ca/discover-students/)
 
