@@ -19,6 +19,21 @@ Interested students should email me (at my UVic email) the following:
 
 Please check these websites for [MSN](https://www.uvic.ca/hsd/nursing/graduate/apply/index.php) and [PhD](https://www.uvic.ca/hsd/nursing/graduate/apply-phd/index.php) requirements for nursing, and my research interest and previous publications. 
 
+Trainees (Present and Alumni)
+Graduate Student Supervision
+- Poonam Seghal 
+- Shauna Remin
+- Catherine Webster
+- Yilan Shen 
+
+Undergraduate Supervision:
+- Bailey Hawkins 
+- Karen Chiem
+
+Committee Member:
+- Joanna Schilling
+- Hope MacDonald 
+
 **Resources**
 
 Grant/award support for students:
