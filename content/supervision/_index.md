@@ -39,22 +39,22 @@ Please check these websites for [MSN](https://www.uvic.ca/hsd/nursing/graduate/a
     <tr>
       <td>Poonam Sehgal</td>
       <td>Poonam is a Nurse Practitioner pursuing PhD for the early detection of pneumonia decline in long-term care residents through natural language processing analysis of clinicians’ notes. She has been awarded the AGE-WELL EPIC-AT Fellowship and the University of Victoria Retirees Association Student Scholarship for her research.</td>
-      <td><img src="/media/graduate/student1.jpg" width="100" height="100" alt="Student 1"></td>
+      <td><img src="/media/supervision/Poonam.jpg" width="100" height="100" alt="Student 1"></td>
     </tr>
     <tr>
       <td>Shauna Remin</td>
       <td>Shauna is a nurse educator in BC Cancer and pursuing MSN to examine the meaning of body image among adults with breast cancer.</td>
-      <td><img src="/media/graduate/student2.jpg" width="100" height="100" alt="Student 2"></td>
+      <td><img src="/media/supervision/Shauna_Remin.jpeg" width="100" height="100" alt="Student 2"></td>
     </tr>
     <tr>
       <td>Yilan Shen</td>
       <td>Yilan is a Nursing and Informatics Double Degree student. As part of a research project, she is conducting a scoping review to address the psychosocial needs of community-dwelling older adults with aging-in-place technology.</td>
-      <td><img src="/media/graduate/student3.jpg" width="100" height="100" alt="Student 3"></td>
+      <td><img src="/media/supervision/Yilan_Shen.jpeg" width="100" height="100" alt="Student 3"></td>
     </tr>
     <tr>
       <td>Catherine Webster</td>
       <td>Catherine has completed the Nursing and Health Informatics Double Degree program. As part of a research project, she completed a scoping review of the impacts of digital health technologies on the patient journey.</td>
-      <td><img src="/media/graduate/student3.jpg" width="100" height="100" alt="Student 3"></td>
+      <td><img src="/media/supervision/Catherine_Webster.jpeg" width="100" height="100" alt="Student 3"></td>
     </tr>
   </tbody>
 </table>
@@ -80,12 +80,12 @@ Please check these websites for [MSN](https://www.uvic.ca/hsd/nursing/graduate/a
     <tr>
       <td>Bailey Hawkins</td>
       <td>Bailey is a Jamie Cassels Undergraduate Student who presented on [“Personas to Support Health Care Provider Use of Patient Reported Outcome Measures in the Care of Older Adults with Cancer”](https://onlineacademiccommunity.uvic.ca/LearnAnywhere/wp-content/uploads/sites/4948/2022/03/Bailey-Hawkins-poster_Bailey-Hawkins.pdf)</td>
-      <td><img src="/media/graduate/student1.jpg" width="100" height="100" alt="Student 1"></td>
+      <td><img src="/media/supervision/Bailey-Hawkins-Photo_Bailey-Hawkins-e1647901070779-912x675.jpeg" width="100" height="100" alt="Student 1"></td>
     </tr>
     <tr>
       <td>Karen Chiem</td>
       <td>Karen is a Jamie Cassels Undergraduate Student who presented on [“Sharing Best Strategies for Inclusion of Mental Health Patients and Families in Research”](https://hdl.handle.net/1828/16155).</td>
-      <td><img src="/media/graduate/student2.jpg" width="100" height="100" alt="Student 2"></td>
+      <td><img src="/media/supervision/Karen-Chiem-Photo_Karen-Chiem.png" width="100" height="100" alt="Student 2"></td>
     </tr>
   </tbody>
 </table>
@@ -148,5 +148,5 @@ _[Institute on Aging and Lifelong Health Scholarships](https://www.uvic.ca/resea
 _[Canadian Nurses Foundation Scholarships](https://cnf-fiic.ca/scholarship-and-awards/)
 _[Registered Nurses Foundation of BC Bursaries](https://www.rnfbc.ca/bursaries/)
 _[Canadian Institutes of Health Research Training Awards](https://cihr-irsc.gc.ca/e/50513.htmll)
-_[Michael Smith Foundation for Health Research](https://www.msfhr.org/funding) 
-_[Mitacs](https://www.mitacs.ca/discover-students/)
+_[Michael Smith Foundation for Health Research](https://www.msfhr.org/funding)
+\_[Mitacs](https://www.mitacs.ca/discover-students/)
