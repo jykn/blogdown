@@ -7,9 +7,9 @@ title:
 I am currently looking for graduate students interested in person-centred methods and approaches. These topics include:
 
 - Use of patient-reported outcome measures
-- psychosocial interventions focused on improving quality of life
-- knowledge translation strategies to tailor health care
-- other topics based on research interest in bio
+- Psychosocial interventions focused on improving quality of life
+- Knowledge translation strategies for tailoring health care
+- Other topics based on research interest in bio
 
 Interested students should email me (at my UVic email) the following:
 
