@@ -137,10 +137,10 @@ Finding “fit” between the supervisor and the student is one of the most impo
 **Resources**
 
 Award support for students:
-_[School of Nursing Awards](https://www.uvic.ca/registrar/safa/entrance-scholarships/dept/nursing.php)
-_[Institute on Aging and Lifelong Health Scholarships](https://www.uvic.ca/research/centres/aging/awards/scholarships/index.php)
-_[Canadian Nurses Foundation Scholarships](https://cnf-fiic.ca/scholarship-and-awards/)
-_[Registered Nurses Foundation of BC Bursaries](https://www.rnfbc.ca/bursaries/)
-_[Canadian Institutes of Health Research Training Awards](https://cihr-irsc.gc.ca/e/50513.htmll)
-_[Michael Smith Foundation for Health Research](https://www.msfhr.org/funding)
-\_[Mitacs](https://www.mitacs.ca/discover-students/)
+-[School of Nursing Awards](https://www.uvic.ca/registrar/safa/entrance-scholarships/dept/nursing.php)
+-[Institute on Aging and Lifelong Health Scholarships](https://www.uvic.ca/research/centres/aging/awards/scholarships/index.php)
+-[Canadian Nurses Foundation Scholarships](https://cnf-fiic.ca/scholarship-and-awards/)
+-[Registered Nurses Foundation of BC Bursaries](https://www.rnfbc.ca/bursaries/)
+-[Canadian Institutes of Health Research Training Awards](https://cihr-irsc.gc.ca/e/50513.htmll)
+-[Michael Smith Foundation for Health Research](https://www.msfhr.org/funding)
+-[Mitacs](https://www.mitacs.ca/discover-students/)
