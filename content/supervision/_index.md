@@ -60,7 +60,6 @@ Please check these websites for [MSN](https://www.uvic.ca/hsd/nursing/graduate/a
 </table>
 
 <br />
-<br />
 
 <h4 style="margin: 2rem 0">Undergraduate Students</h4>
 
@@ -91,7 +90,6 @@ Please check these websites for [MSN](https://www.uvic.ca/hsd/nursing/graduate/a
   </tbody>
 </table>
 
-<br />
 <br />
 
 <h4 style="margin: 2rem 0">Committee Members</h4>
@@ -136,7 +134,6 @@ Please check these websites for [MSN](https://www.uvic.ca/hsd/nursing/graduate/a
   </tbody>
 </table>
 
-<br />
 <br />
 
 **Advisor Pledge**
