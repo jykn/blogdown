@@ -5,10 +5,10 @@ education:
   - course: Post-Doctorate in patient-reported outcomes
     institution: Trinity Western University & BC Ministry of Health Office of Patient-Centred Measurement
     year: 2020
-  - course: [PhD in Nursing](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0390462) with subspecialization in Measurement, Evaluation, and Research Methodology
+  - course: PhD in Nursing
     institution: University of British Columbia
     year: 2020
-  - course: [MSN](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0165866)
+  - course: MSN
     institution: University of British Columbia
     year: 2014
   - course: BSN
