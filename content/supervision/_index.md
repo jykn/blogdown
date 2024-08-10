@@ -79,12 +79,12 @@ Please check these websites for [MSN](https://www.uvic.ca/hsd/nursing/graduate/a
   <tbody style="font-size: 12px;">
     <tr>
       <td>Bailey Hawkins</td>
-      <td>Bailey is a Jamie Cassels Undergraduate Student who presented on [“Personas to Support Health Care Provider Use of Patient Reported Outcome Measures in the Care of Older Adults with Cancer”](https://onlineacademiccommunity.uvic.ca/LearnAnywhere/wp-content/uploads/sites/4948/2022/03/Bailey-Hawkins-poster_Bailey-Hawkins.pdf)</td>
+      <td>Bailey is a Jamie Cassels Undergraduate Student who presented on <a href="https://onlineacademiccommunity.uvic.ca/LearnAnywhere/wp-content/uploads/sites/4948/2022/03/Bailey-Hawkins-poster_Bailey-Hawkins.pdf" target="_blank">Personas to Support Health Care Provider Use of Patient Reported Outcome Measures in the Care of Older Adults with Cancer</a></td>
       <td><img src="/media/supervision/Bailey-Hawkins-Photo_Bailey-Hawkins-e1647901070779-912x675.jpeg" width="100" height="100" alt="Student 1"></td>
     </tr>
     <tr>
       <td>Karen Chiem</td>
-      <td>Karen is a Jamie Cassels Undergraduate Student who presented on [“Sharing Best Strategies for Inclusion of Mental Health Patients and Families in Research”](https://hdl.handle.net/1828/16155).</td>
+      <td>Karen is a Jamie Cassels Undergraduate Student who presented on <a href="https://hdl.handle.net/1828/16155" target="_blank">Sharing Best Strategies for Inclusion of Mental Health Patients and Families in Research.</a></td>
       <td><img src="/media/supervision/Karen-Chiem-Photo_Karen-Chiem.png" width="100" height="100" alt="Student 2"></td>
     </tr>
   </tbody>
