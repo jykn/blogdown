@@ -44,7 +44,7 @@ Please check these websites for [MSN](https://www.uvic.ca/hsd/nursing/graduate/a
     <tr>
       <td>Shauna Remin</td>
       <td>Shauna is a nurse educator in BC Cancer and pursuing MSN to examine the meaning of body image among adults with breast cancer.</td>
-      <td><img src="/media/supervision/Shauna_Remin" width="100" height="100" alt="Student 2"></td>
+      <td><img src="/media/supervision/Shauna_Remin.jpg" width="100" height="100" alt="Student 2"></td>
     </tr>
     <tr>
       <td>Yilan Shen</td>
