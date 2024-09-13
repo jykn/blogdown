@@ -17,9 +17,9 @@ image:
 #publication_short: In *CIN*
 publication_types:
 - "2"
-#publishDate: "2024-03-20"
+#publishDate: "2024-09-12"
 #slides: example
-summary: This was an invited presentation to the 2024 Canadian Frailty Network Conference [Decades of Impact: Honouring our Journey, Charting our Future](https://www.cfn-nce.ca/events/upcoming-events/2024-conference/) to present on the co-creation of frailty journey maps in older adults with cancer.
+summary: This was an invited presentation to the 2024 Canadian Frailty Network Conference [Decades of Impact Honouring our Journey, Charting our Future](https://www.cfn-nce.ca/events/upcoming-events/2024-conference/) to present on the co-creation of frailty journey maps in older adults with cancer.
 
 #tags:
 #- Source Themes
