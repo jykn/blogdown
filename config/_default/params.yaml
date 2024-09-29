@@ -7,24 +7,24 @@
 
 theme: "ocean"
 day_night: true
-font: ''
+font: ""
 font_size: L
 
 # SEO
 
-site_type: 'Person'
-local_business_type: ''
-org_name: ''
-description: ''
-twitter: ''
+site_type: "Person"
+local_business_type: ""
+org_name: ""
+description: ""
+twitter: ""
 
 # Contact (edit or remove options as required)
 
 email: "jykn1[at]uvic.ca"
 phone: ""
 address:
-  street: "" 
-         
+  street: ""
+
   city: ""
   region: ""
   postcode: ""
@@ -32,8 +32,8 @@ address:
   country_code: ""
 
 directions: ""
-office_hours: ''
-appointment_url: ''
+office_hours: ""
+appointment_url: ""
 
 contact_links:
 #icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
@@ -56,8 +56,8 @@ main_menu:
 
 # Localization
 
-date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
+date_format: "Jan 2, 2006"
+time_format: "3:04 PM"
 address_format: en-us
 
 # Site features
@@ -71,8 +71,8 @@ math: false
 diagram: false
 privacy_pack: false
 edit_page:
-  repo_url: ''
-  content_dir: ''
+  repo_url: ""
+  content_dir: ""
   repo_branch: main
   editable:
     docs: true
@@ -82,6 +82,7 @@ show_related:
   docs: true
   page: false
   post: false
+  video: true
   project: true
   publication: true
   talk: true
@@ -111,7 +112,7 @@ breadcrumb:
   page_types:
     book: true
 comments:
-  provider: ''
+  provider: ""
   commentable:
     post: true
     book: true
@@ -119,27 +120,27 @@ comments:
     publication: true
     talk: true
   disqus:
-    shortname: ''
+    shortname: ""
     show_count: true
   commento:
-    url: ''
+    url: ""
 search:
   provider: wowchemy
   algolia:
-    app_id: ''
-    api_key: ''
-    index_name: ''
+    app_id: ""
+    api_key: ""
+    index_name: ""
     show_logo: false
 #map:
 #  provider: mapnik
 #  api_key: ''
 #  zoom: 15
 marketing:
-  google_analytics: ''
-  google_tag_manager: ''
-  google_site_verification: ''
-  baidu_site_verification: ''
-  baidu_tongji: ''
+  google_analytics: ""
+  google_tag_manager: ""
+  google_site_verification: ""
+  baidu_site_verification: ""
+  baidu_tongji: ""
 cms:
   branch: master
   local_backend: false
