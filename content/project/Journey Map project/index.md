@@ -15,6 +15,6 @@ Journey mapping – the visualization of patients’ stories – is a relatively
 
 See infographics created for clinicians for promoting the use of patient-reported outcome measures (PROMs) in practice: 
 1) [Benefits of assessing frailty](https://www.canva.com/design/DAGB4ioIzB8/p6IFyLvjtFcAVPBaeaNy-A/view?utm_content=DAGB4ioIzB8&utm_campaign=designshare&utm_medium=link&utm_source=editor); 
-2) Opportunities to discuss frailty using [journey maps](https://www.canva.com/design/DAGSE9skXqs/pBOWc_eiCSJoBLH9Gqhtmg/view?utm_content=DAGSE9skXqs&utm_campaign=designshare&utm_medium=link&utm_source=editor). 
+2) [Opportunities to discuss frailty using journey maps](https://www.canva.com/design/DAGSE9skXqs/pBOWc_eiCSJoBLH9Gqhtmg/view?utm_content=DAGSE9skXqs&utm_campaign=designshare&utm_medium=link&utm_source=editor). 
 
 See our [media news story](https://agewell-nce.ca/archives/15935). 
