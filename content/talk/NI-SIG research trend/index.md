@@ -13,8 +13,8 @@ image:
 #  url: http://example.org
 #projects:
 #- internal-project
-#publication: In *Computers, Informatics, Nursing*
-#publication_short: In *CIN*
+publication: In *International Society of Quality of Life Research Conference*
+publication_short: In *ISOQOL*
 publication_types:
 - "2"
 #publishDate: "2024-10-20"
@@ -23,7 +23,7 @@ summary: This was a poster presentation at the International Society of Quality 
 
 #tags:
 #- Source Themes
-title: "Analyzing Citation Patterns of New Investigators Special Interest Group Members"
+title: "Analyzing citation patterns of New Investigators Special Interest Group members"
 #url_code: 'https://www.casn.ca/2022/01/the-2023-2024-lunch-and-learn-series-presented-by-casns-research-scholarship-committee/'
 #url_dataset: '#'
 url_pdf: "https://ln5.sync.com/dl/39de4fcd0#z9uattja-j5jwckcv-zidagcir-cj657yxh"
