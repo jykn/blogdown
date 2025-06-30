@@ -2,7 +2,7 @@
 authors:
 - admin
 
-date: "2023-10-14T12:00:00Z"
+date: "2023-10-11T12:00:00Z"
 doi: ""
 featured: true
 image:
@@ -19,7 +19,7 @@ publication_types:
 - "1"
 publishDate: "2023-10-11"
 #slides: example
-summary: This has been awarded the new investigator poster award at ISOQOL regarding the use of journey maps.
+summary: This has been awarded the 2023 new investigator poster award at ISOQOL regarding the use of journey maps.
 #tags:
 #- Source Themes
 title: Journey mapping older adults' experiences of radiation therapy for cancer
