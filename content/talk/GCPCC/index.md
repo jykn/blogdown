@@ -19,11 +19,11 @@ publication_types:
 - "2"
 #publishDate: "2026-05-14"
 #slides: example
-summary: It was a pleasure to contribute a pre-workshop and oral presentation at the Global Centre for Person-Centred Care in Gothenburg Sweden. There were great discussions, collaborations, and innovations to improve person-centred care gloabally!
+summary: It was a pleasure to contribute a pre-workshop and oral presentation at the Global Centre for Person-Centred Care in Gothenburg Sweden (May 4-7, 2026). There were great discussions, collaborations, and innovations to improve person-centred care gloabally!
 #tags:
 #- Source Themes
 title: "Advancing person-centred care"
-#url_code: 'https://www.casn.ca/2022/01/the-2023-2024-lunch-and-learn-series-presented-by-casns-research-scholarship-committee/'
+#url_code: 'https://www.linkedin.com/feed/update/urn:li:activity:7402028196357201920/'
 #url_dataset: '#'
 #url_pdf: "https://ln5.sync.com/dl/39de4fcd0#z9uattja-j5jwckcv-zidagcir-cj657yxh"
 #url_poster: '#'
