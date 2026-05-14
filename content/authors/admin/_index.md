@@ -72,5 +72,5 @@ He earned his [PhD in Nursing](https://open.library.ubc.ca/cIRcle/collections/ub
 
 His research program focuses on advancing person-centred care by tailoring health services to the unique needs of individuals with progressive or life-threatening conditions, including cancer and mental health challenges. His research has been supported by grants from the Canadian Institutes of Health Research, Canadian Frailty Network, AGE-WELL, BC SUPPORT Unit, Health Research BC, and UVic. He supervises students from both Nursing and Health Information Science.
 
-His previous life experiences in the Korean army and nursing are chronicled in his [book](https://www.amazon.ca/Lonely-Bee-Land-Flowers-ebook/dp/B00AVZEEJC). Outside academia, he enjoys composing relaxing piano music, which he shares on his [youtube channel](https://youtube.com/channel/UCSi45cT6a8K-7SXaSt6SFVA/)).
+His previous life experiences in the Korean army and nursing are chronicled in his [book](https://www.amazon.ca/Lonely-Bee-Land-Flowers-ebook/dp/B00AVZEEJC). Outside academia, he enjoys composing relaxing piano music, which he shares on his [youtube channel](https://youtube.com/channel/UCSi45cT6a8K-7SXaSt6SFVA/).
 
