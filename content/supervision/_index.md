@@ -1,5 +1,5 @@
 ---
-title:
+title:Supervision and Trainees
 ---
 
 **Available to Supervise**
@@ -17,16 +17,12 @@ The appointment is full-time for two years, with flexible start dates and a remo
 
 Interested applicants should email me at my UVic email address with:
 
-A current CV/resume
-
-A cover letter describing their background, research interests, and how they would like to contribute to this research program
-
-Contact information for two references
+-A current CV/resume
+-A cover letter describing their background, research interests, and how they would like to contribute to this research program
+-Contact information for two references
 
 Applications will be reviewed on a rolling basis until the position is filled.
 
-
-For UVic graduate students, please check these websites for [MSN](https://www.uvic.ca/hsd/nursing/graduate/apply/index.php) and [PhD](https://www.uvic.ca/hsd/nursing/graduate/apply-phd/index.php) requirements for nursing, and my research interest and previous publications.
 
 <h2 style="margin: 2rem 0 3rem 0">Trainees (Present and Alumni)</h2>
 
@@ -51,10 +47,12 @@ For UVic graduate students, please check these websites for [MSN](https://www.uv
       <td>Poonam is a Nurse Practitioner pursuing PhD for the early detection of pneumonia decline in long-term care residents through natural language processing analysis of clinicians’ notes. She has been awarded the AGE-WELL EPIC-AT Fellowship and the University of Victoria Retirees Association Student Scholarship for her research.</td>
       <td><img src="/media/supervision/Poonam.jpg" width="100" height="100" alt="Student 1"></td>
     </tr>
+      <tr>
       <td>Nikki Kafal</td>
-      <td>Shauna is a graduate student in nursing informatics whose research focuses on evaluating YouTube videos. Her work explores the role of digital health information in supporting patient education and public awareness</td>
+      <td>Nikki is a graduate student in nursing informatics whose research focuses on evaluating YouTube videos. Her work explores the role of digital health information in supporting patient education and public awareness</td>
       <td><img src="/media/supervision/Nikki.png" width="100" height="100" alt="Student 2"></td>
-    <tr>
+    </tr>
+     <td>
       <td>Shauna Remin</td>
       <td>Shauna is a nurse educator in BC Cancer and completed MSN to examine the meaning of body image among adults with breast cancer.(graduation year: 2026)</td>
       <td><img src="/media/supervision/Shauna_Remin.jpg" width="100" height="100" alt="Student 2"></td>
@@ -98,6 +96,7 @@ For UVic graduate students, please check these websites for [MSN](https://www.uv
       <td>Simrit was also part of the N456 field guide course to improve emergency department experiences for older adults through community collaboration. She presented the project findings at the University of Victoria Health Research Day (graduation year 2026).</td>
       <td><img src="/media/supervision/Simrit.jpeg" width="100" height="100" alt="Student 1"></td>
     </tr>
+     <td>
       <td>Bailey Hawkins</td>
       <td>Bailey is a Jamie Cassels Undergraduate Student who presented on <a href="https://onlineacademiccommunity.uvic.ca/LearnAnywhere/wp-content/uploads/sites/4948/2022/03/Bailey-Hawkins-poster_Bailey-Hawkins.pdf" target="_blank">Personas to Support Health Care Provider Use of Patient Reported Outcome Measures in the Care of Older Adults with Cancer</a>(graduation year:2022).</td>
       <td><img src="/media/supervision/Bailey-Hawkins-Photo_Bailey-Hawkins-e1647901070779-912x675.jpeg" width="100" height="100" alt="Student 1"></td>
@@ -171,6 +170,6 @@ Award support for students:
 - [Institute on Aging and Lifelong Health Scholarships](https://www.uvic.ca/research/centres/aging/awards/scholarships/index.php)
 - [Canadian Nurses Foundation Scholarships](https://cnf-fiic.ca/scholarship-and-awards/)
 - [Registered Nurses Foundation of BC Bursaries](https://www.rnfbc.ca/bursaries/)
-- [Canadian Institutes of Health Research Training Awards](https://cihr-irsc.gc.ca/e/50513.htmll)
+- [Canadian Institutes of Health Research Training Awards](https://cihr-irsc.gc.ca/e/50513.html)
 - [Michael Smith Foundation for Health Research](https://www.msfhr.org/funding)
 - [Mitacs](https://www.mitacs.ca/discover-students/)
