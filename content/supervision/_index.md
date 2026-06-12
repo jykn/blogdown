@@ -3,19 +3,24 @@ title:
 ---
 
 **Available to Supervise**
-I am currently seeking a highly motivated Postdoctoral Fellow to join a Michael Smith Health Research BC–funded research program 
-focused on advancing equitable analysis and reporting of patient-centred measures, including patient-reported outcome measures (PROMs) and patient-reported experience measures (PREMs). 
-The fellow will work with large linked health datasets from British Columbia and contribute to developing innovative methods to identify and address inequities in patient experiences 
-and outcomes across diverse populations. The position offers opportunities to conduct advanced quantitative analyses, publish high-impact research, collaborate with health-system partners, mentor trainees, 
-and contribute to grant development. Applicants should hold a PhD in Nursing, Health Sciences, Epidemiology, Biostatistics, Psychology, or a related field and have strong quantitative research skills, 
-including experience with R and/or Mplus.
 
-The appointment is full-time for two years (with possible extension), with flexible start dates and remote work options within Canada.
+I am currently seeking a highly motivated Postdoctoral Fellow to join a Michael Smith Health Research BC–funded research program 
+focused on advancing equitable analysis and reporting of patient-centred measures, including patient-reported outcome measures (PROMs) 
+and patient-reported experience measures (PREMs). The fellow will work with large linked health datasets from British Columbia and 
+contribute to developing innovative methods to identify and address inequities in patient experiences 
+and outcomes across diverse populations. The position offers opportunities to conduct advanced quantitative analyses, publish high-impact 
+research, collaborate with health-system partners, mentor trainees, and contribute to grant development. 
+Applicants should hold a PhD in Nursing, Health Sciences, Epidemiology, Biostatistics, Psychology, or a related field and have 
+strong quantitative research skills, including experience with R and/or Mplus.
+
+The appointment is full-time for two years, with flexible start dates and a remote work option within Canada.
 
 Interested applicants should email me at my UVic email address with:
 
 A current CV/resume
+
 A cover letter describing their background, research interests, and how they would like to contribute to this research program
+
 Contact information for two references
 
 Applications will be reviewed on a rolling basis until the position is filled.
@@ -53,12 +58,12 @@ For UVic graduate students, please check these websites for [MSN](https://www.uv
     </tr>
     <tr>
       <td>Yilan Shen</td>
-      <td>Yilan is a Nursing and Informatics Double Degree student. As part of a research project, she conducted a scoping review to address the psychosocial needs of community-dwelling older adults with aging-in-place technology.(graduation year: 2025)</td>
+      <td>Yilan is a Nursing and Informatics Double Degree student. As part of a research project, she conducted a scoping review to address the psychosocial needs of community-dwelling older adults with aging-in-place technology (graduation year: 2025).</td>
       <td><img src="/media/supervision/Yilan_Shen.jpeg" width="100" height="100" alt="Student 3"></td>
     </tr>
     <tr>
       <td>Catherine Webster</td>
-      <td>Catherine has completed the Nursing and Health Informatics Double Degree program. As part of a research project, she completed a scoping review of the impacts of digital health technologies on the patient journey.(graduation year: 2024)</td>
+      <td>Catherine has completed the Nursing and Health Informatics Double Degree program. As part of a research project, she completed a scoping review of the impacts of digital health technologies on the patient journey (graduation year: 2024).</td>
       <td><img src="/media/supervision/Catherine_Webster.jpeg" width="100" height="100" alt="Student 3"></td>
     </tr>
   </tbody>
@@ -82,12 +87,12 @@ For UVic graduate students, please check these websites for [MSN](https://www.uv
   <tbody style="font-size: 12px;">
     <tr>
       <td>Bailey Hawkins</td>
-      <td>Bailey is a Jamie Cassels Undergraduate Student who presented on <a href="https://onlineacademiccommunity.uvic.ca/LearnAnywhere/wp-content/uploads/sites/4948/2022/03/Bailey-Hawkins-poster_Bailey-Hawkins.pdf" target="_blank">Personas to Support Health Care Provider Use of Patient Reported Outcome Measures in the Care of Older Adults with Cancer</a> (graduation year:2022)</td>
+      <td>Bailey is a Jamie Cassels Undergraduate Student who presented on <a href="https://onlineacademiccommunity.uvic.ca/LearnAnywhere/wp-content/uploads/sites/4948/2022/03/Bailey-Hawkins-poster_Bailey-Hawkins.pdf" target="_blank">Personas to Support Health Care Provider Use of Patient Reported Outcome Measures in the Care of Older Adults with Cancer</a>(graduation year:2022).</td>
       <td><img src="/media/supervision/Bailey-Hawkins-Photo_Bailey-Hawkins-e1647901070779-912x675.jpeg" width="100" height="100" alt="Student 1"></td>
     </tr>
     <tr>
       <td>Karen Chiem</td>
-      <td>Karen is a Jamie Cassels Undergraduate Student who presented on <a href="https://hdl.handle.net/1828/16155" target="_blank">Sharing Best Strategies for Inclusion of Mental Health Patients and Families in Research.</a> (graduation year:2024)</td>
+      <td>Karen is a Jamie Cassels Undergraduate Student who presented on <a href="https://hdl.handle.net/1828/16155" target="_blank">Sharing Best Strategies for Inclusion of Mental Health Patients and Families in Research</a>(graduation year:2024).</td>
       <td><img src="/media/supervision/Karen-Chiem-Photo_Karen-Chiem.png" width="100" height="100" alt="Student 2"></td>
     </tr>
   </tbody>
