@@ -1,5 +1,5 @@
 ---
-title:"Supervision and Trainees"
+title: "Supervision and Trainees"
 ---
 
 **Available to Supervise**
