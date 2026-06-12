@@ -94,7 +94,7 @@ Applications will be reviewed on a rolling basis until the position is filled.
     <tr>
     <td>Simrit Sandhu</td>
       <td>Simrit was also part of the N456 field guide course to improve emergency department experiences for older adults through community collaboration. She presented the project findings at the University of Victoria Health Research Day (graduation year 2026).</td>
-      <td><img src="/media/supervision/Simrit.jpeg" width="100" height="100" alt="Student 1"></td>
+      <td><img src="/media/supervision/Simrit.png" width="100" height="100" alt="Student 1"></td>
     </tr>
      <tr>
       <td>Bailey Hawkins</td>
